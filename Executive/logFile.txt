@@ -1,0 +1,44 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue Feb  5 10:13:02 2019
+     Path: "C:\Users\Takshil Mehta\Desktop\OODProj01\Executive"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      21
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Executive.h       class                          Executive      20       5       1
+               Executive.h   namespace                       Requirements      26      94      13
+               Executive.h       class                              Tests      27      12      12
+               Executive.h    function                       requirement1      41       6       1
+               Executive.h    function                       requirement2      48       6       1
+               Executive.h    function                       requirement3      55      13       2
+               Executive.h    function                       requirement4      69       7       1
+               Executive.h    function                       requirement5      77      13       2
+               Executive.h    function                       mainFunction      86       1       1
+               Executive.h    function                       requirement6      91       6       1
+               Executive.h    function                       requirement7      98       7       1
+               Executive.h    function                       requirement8     106       6       1
+               Executive.h    function                    requirement1234     113       6       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             Executive.cpp    function                        customUsage      21      11       1
+             Executive.cpp    function                               main      39      47       5
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     2 files
