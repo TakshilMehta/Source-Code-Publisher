@@ -1,0 +1,51 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue Feb  5 10:14:19 2019
+     Path: "C:\Users\Takshil Mehta\Desktop\OODProj01\DirectoryNavigator\DirExplorer-Naive"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      38
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            DirExplorerN.h   namespace                         FileSystem      77     209      32
+            DirExplorerN.h       class                       DirExplorerN      79      47      31
+            DirExplorerN.h    function                            version      83       2       1
+            DirExplorerN.h    function                       DirExplorerN     130       3       1
+            DirExplorerN.h    function                         addPattern     136       5       1
+            DirExplorerN.h    function                            recurse     144       3       1
+            DirExplorerN.h    function                             search     150       3       1
+            DirExplorerN.h    function                               find     159      32       6
+            DirExplorerN.h    function                             doFile     194       4       1
+            DirExplorerN.h    function                              doDir     201       4       1
+            DirExplorerN.h    function                          fileCount     208       3       1
+            DirExplorerN.h    function                           dirCount     214       3       1
+            DirExplorerN.h    function                          showStats     220       3       1
+            DirExplorerN.h    function                    providedPattern     225       3       1
+            DirExplorerN.h    function                     filestoProcess     230       3       1
+            DirExplorerN.h    function                          doConvert     234       4       1
+            DirExplorerN.h    function                        searchFiles     240       3       1
+            DirExplorerN.h    function                          finalfind     245      16       4
+            DirExplorerN.h    function                       mainFunction     263      18       5
+            DirExplorerN.h    function                       matchedFiles     282       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          DirExplorerN.cpp    function                        customUsage      18      11       1
+          DirExplorerN.cpp    function                               main      33      41       4
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     2 files
